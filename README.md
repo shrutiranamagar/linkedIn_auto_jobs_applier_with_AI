@@ -181,7 +181,7 @@ This file defines your job search parameters and bot behavior. Each section cont
       - Data Scientist
     ```
 
-- `locations:`
+- `location:'
   - List locations you want to search in, one per line
   - Example:
     ```yaml
